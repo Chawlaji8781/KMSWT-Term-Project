@@ -21,4 +21,4 @@ Two dictionaries were generated and used to create a dataframe containing the na
 ### Ontology Design
 The Cellfie tool was used to create an ontology from the generated CSV file. The resulting ontology contained three classes - Professor, Department, and Research_Area - and four object properties - hasDepartment, hasResearchArea, isDepartmentOf, and isResearchAreaOf.
 
-[##Youtube Link](https://youtu.be/MMKfNg-jZus).
+[Youtube Link](https://youtu.be/MMKfNg-jZus)
